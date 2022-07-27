@@ -1,4 +1,4 @@
-#this is my first program in brain fuck which types my first name and written and interpreted by a python script.
+#this is my first program in brain fuck which types my first name and interpreted using a python script.
 #my first name
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++.
 >++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
